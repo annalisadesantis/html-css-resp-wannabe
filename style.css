@@ -38,9 +38,6 @@
       float: none;
     }
 
-    #lezioni .row img {
-      width: 50%;
-    }
 }
 
 @media screen and (max-width: 420px) {
@@ -58,9 +55,6 @@
       float: none;
     }
 
-    #lezioni .row img {
-      width: 50%;
-    }
 }
 
 /* BLOCCO STEPS */
